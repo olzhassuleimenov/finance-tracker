@@ -1,0 +1,8 @@
+{
+  "Products": ["supermarket", "small", "magnum", "products"],
+  "Transport": ["uber", "taxi", "bus", "metro", "gas-oil"],
+  "Cafe": ["cafe", "coffee", "restaurant", "burger", "starbucks", "pizza"],
+  "Apartments": ["rent", "utilities", "light", "internet"],
+  "Entertainment": ["kino", "theatr", "subscriptions", "netflix", "games", "steam"],
+  "Health": ["pharmacy", "hospital", "dentist", "analyzes"]
+}
