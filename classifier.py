@@ -9,10 +9,8 @@ def open_json(filepath):
 
 def transaction(dictionary, description):
     desc = str(description).lower()
-    
     for category, keywords in dictionary.items():
         for key in keywords:
-            if key in desc:
+            if key in desc: 
                 return category
-                
-    return "Прочее" 
+    return "Прочее"
